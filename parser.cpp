@@ -1,3 +1,6 @@
+//Authors:
+//Andrew Westerman
+
 
 #include <iostream>
 using namespace std;
