@@ -1,5 +1,6 @@
 //Authors:
 //Andrew Westerman
+//Daniel Ceja 
 
 
 #include <iostream>
